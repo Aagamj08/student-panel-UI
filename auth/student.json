@@ -1,0 +1,105 @@
+{
+  "cookies": [
+    {
+      "name": "_cs_c",
+      "value": "0",
+      "domain": ".azetest.ai",
+      "path": "/",
+      "expires": 1825363928,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "student_esai_access_token",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmNDlkNjIyZi0xMDI2LTRhMWItYjQ4ZC1jNjZkMWQwYWZiMmIiLCJvcmdhbml6YXRpb25fdXNlcl9pZCI6ImU3NTk2YzQ4LTg2ZGYtNDYxNC1hZTczLTk1MWVmOGEzOGVlNyIsInJvbGVfY2F0ZWdvcnkiOiJzdHVkZW50Iiwicm9sZV9zY29wZSI6Im9yZ2FuaXphdGlvbiIsImV4cCI6MTc5MTIwMTczMiwidHlwZSI6ImFjY2VzcyJ9.DTL23EDo9orTuM8BSLLVIS9zvltsmZ8hrQ-yIlarL--Huy1_sfOeWH_mhTuR5eHKixlDxItozRKAzhZC3cJc-Yhizn6x-DK5a-FaE7cxlp1CkGrA7urtdJVuqJ2TW1wTMS7ungwGWENqeV4JjQTAEQ5pxuRfPU-SxwYPYA9jb5cL6XQiia_ydx8rEeOWBatZhBXeHBRYk1I3niXDKamNjVuYPnrJGeFjlANUPs-n27O4nv2UZ9p_ebt9slQoWUjhFE9FoFakwBcmod-vReQ4CQQzlwcb4QLlPugnhhCmD_HgJNFmnw4SpQZ9dugKW3d3-9_WovFw4QE9pgf8bcITIw",
+      "domain": "dev.azetest.ai",
+      "path": "/",
+      "expires": 1791201732.841521,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "student_esai_refresh_token",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmNDlkNjIyZi0xMDI2LTRhMWItYjQ4ZC1jNjZkMWQwYWZiMmIiLCJvcmdhbml6YXRpb25fdXNlcl9pZCI6ImU3NTk2YzQ4LTg2ZGYtNDYxNC1hZTczLTk1MWVmOGEzOGVlNyIsInNlc3Npb25faWQiOiI2Y2FjMDJkZC1iNWQ5LTRmYjMtODk3My00YWQ4ZmUyMzVmMWEiLCJleHAiOjE3OTE4MDQ3MzIsInR5cGUiOiJyZWZyZXNoIn0.hvmiT-z6oonOWGaUXbKjGV_Ne5SmcFt4-hS0DcNmQPPuLxN8gmcQSgVktba70Adt_6HE2cKOxtzEWHBh2_ITxSnHSwMx1-ApA1ZrsqEezAt1q2eetGmZ2CMeq7ZGGwBPRVUVPGQVR0uGpGp9l-0GGT6nMYObwhNXbzzMamcXmCBo4nMhckMM8bts406H109JcviikTCEqbUrlaCXPtfp6Yk5WfgFDn969BiR4dsBEOJLB0uURS0mt8fSEf2HSoaC1MQTVRXdJcxiIh610AD1f9zTv15ypNdfQpqLBAX5hiaE1MM2J_3ML6WWpFSoqfWBT2_ubwX80iE6ryFeHxhS6g",
+      "domain": "dev.azetest.ai",
+      "path": "/",
+      "expires": 1791804732.841909,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_id",
+      "value": "55a0c81c-c883-a022-a350-d1adf712eb4d.1791199928.1.1791199932.1791199928.1.1825363928536.1.x",
+      "domain": ".azetest.ai",
+      "path": "/",
+      "expires": 1825363928,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_s",
+      "value": "2.0.U.9.1791201732891",
+      "domain": ".azetest.ai",
+      "path": "/",
+      "expires": 1791201732,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://dev.azetest.ai",
+      "localStorage": [
+        {
+          "name": "@secure.s.student_userData",
+          "value": "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"
+        },
+        {
+          "name": "student_system_settings",
+          "value": "[{\"id\":\"ae2af910-165c-4c98-b11e-651886f41323\",\"name\":\"Service Warning\",\"key\":\"service_warning\",\"value\":null,\"is_on\":false},{\"id\":\"45bc5c25-ab14-4f58-8bd9-78e45558c2b3\",\"name\":\"Idle Session Timeout\",\"key\":\"idle_session_timeout\",\"value\":null,\"is_on\":false},{\"id\":\"69256907-6530-4f60-af6a-f818ce83247d\",\"name\":\"Termination Count\",\"key\":\"termination_count\",\"value\":\"2\",\"is_on\":true},{\"id\":\"54e8f7c0-7f00-4fdc-9347-01614a5983ec\",\"name\":\"Photo Verification Enabled\",\"key\":\"photo_verification_enabled\",\"value\":\"enabled\",\"is_on\":true},{\"id\":\"5de48a5b-ccec-434c-80d3-1cfe6a24d4aa\",\"name\":\"Honesty Policy Enabled\",\"key\":\"honesty_policy_enabled\",\"value\":\"enabled\",\"is_on\":true}]"
+        },
+        {
+          "name": "violation_mode_for_test",
+          "value": "\"STRICT\""
+        },
+        {
+          "name": "assessment_id",
+          "value": "null"
+        },
+        {
+          "name": "@secure.s.user",
+          "value": "U2FsdGVkX1/6a0uYkdzvjas2J4lWn2BTJKXXF23vtk0QpIW8YVLJ8h9gECOoSjPKmzGAmS2Ko4QeaA+Rz7iYYUR9ZCxmFF60FBLNSnucvUfDFyX/up3Pf2lpHQ9b5tsaSE+sk12g8ljM6BzxBzXGRG9dt6FdBuKeGFGS6xs1MGHol7SX3txc84gpqxGOZvD/ubGAw4fLleZLbUgM5UoubMX4jwF7j4G8GpbMWV2JR6bIkyP2X1Xuhbpu08HUE8up5BeoU7NKkoe8vdr3E3SFsjsNKg0mtcJzSxH7btCx8j4bn5q057KH1RiuII/CG4paDqK8RmxqFXa6AYtDYBqCSHtv9fse6b3Lzwj6pxA8WehBMgFLLu/aJqWudRsF6CxasvFxOs6uIoldM4MkCvDr3i+12NTi3mqIJGivAdJl7sQbHYph/Eecc0XXVRLZGowZ1o+gt+lgtp/LXoF0Ma+zlqw6dhzDjbO/DeKF+cofhkh9YMQZAUNQc67Yp+pOvSiJXfDonfGTTxyO8sRZb43S7FwdHHaG7xtEHFlr/2d0F1Z/xbRlXm9tasBSI2/TwEwZPih3wwxICcds7OJKtFjQPrluT2vwoJc+7LgPyImZY2iNzqjvsRzPxoyPQsFG4eyU9Ak7QpMeu56Uu02VF441Hxty2JfgHGUPDLdSfbFPKKs9kT8Je5F6FvLp08Xx41jVGJb17hhdG2HS3eecAavm4SH2gWYXKmlpeptRWrpUvgLMLQDtSrFXplX6fcBVssK2067Uk9KWUF2LlaqPDaD4U8AUYhIEO8xBHMVbAB244/y2BFi3h9L7sqCaxIl7xQM6thk7yPcT4fHVV2X/p+zKEu2fqW9WRpgfYSqZUAgRalZt5m+LdDuc0aRZgP1q8fahb6sw2US9HpEOquICXtNKoxmZQFeVSCzPpUACtyD50h3HRDW4mUDIbLvvDWGSGCvtBcm5shhRZYacYPP55MB2krW8TVtrbFoRMH+cjph2a64P2Ia5xPovrkHUllgmRVSWHtIf3D/mI75Dp2ACVIRm/mpkMqelOoy1VcvRR90IOY4EM37HPffO0rhGoFBGLsKLY2WvSdQrkLH+DeIQ8Sd3R6lZlIpm3ryYR9NQCBzw+c3TaBFHquFEeHBVYFJ1QDJxIPbFblWFPPQe6KbdbuDoGAJ+1Sc9le7I3E9Apj/IzEmkV3yg9kyn2HUZGrCw4siYbN6SDlqWexaVEAq8Yak+/PR2ttSBA41rz610cROY+wHgR55phW1CRxQo/+dsv6+luptsRlWzJLrSFFO088J3Q8fCruh1LLcTNsjOhABKkiZIqi4q7PoxzTxrsCurWufvEeX/cb6rIIPBBiZXoOzaDEnUSvNg45htO8fPf/0vTqI8u3hgeabt3rG193ISeKtXvJWMAvn8iVGqUpD5Dpf/zHU7irw7xw2YHXCwa/0NJqMybLs3QIgEAGpy5ZYTJsGLmI6bg1gMcoGDhtlFBJ9QFinHT7GHicSmtqWZCOU8FvzFpfrqrgdyRzudBKBhUKw/X35L7miqwGCpRijGIGOn/gs1edpyl2GOKj45Nm8JakYf2sEmjtxyAnE6iQKTlbAd0vcs0YaUVxIqOepxAScP+YRBvP/e/KQLa/3baGWHAv4="
+        },
+        {
+          "name": "proctoring_enabled_for_test",
+          "value": "true"
+        },
+        {
+          "name": "notes",
+          "value": "null"
+        },
+        {
+          "name": "assigned_test_id",
+          "value": "null"
+        },
+        {
+          "name": "test_template_id",
+          "value": "null"
+        },
+        {
+          "name": "adaptive_config",
+          "value": "{}"
+        },
+        {
+          "name": "persist:root",
+          "value": "{\"assessment\":\"{\\\"data\\\":null,\\\"isLoading\\\":false,\\\"error\\\":null,\\\"isAssessmentActive\\\":false}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    }
+  ]
+}
